@@ -1,0 +1,7 @@
+name: pulumi-docker-build-multiple-exports-sample
+description: A minimal C# Pulumi program
+runtime: dotnet
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: csharp
